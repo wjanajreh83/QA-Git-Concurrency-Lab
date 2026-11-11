@@ -4,3 +4,6 @@ def test_login():
 
 def test_logout():
     print("Original Logout Test")
+
+def test_quick_login():
+    print("QA A - Adding Quick Login Test")
